@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/PlatformerMenu.unity
     guid: a5543afb325d349aebe155eb9e9a13fd
@@ -41,4 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PlatformerLevel10_Week6DemoBackgroundParallax.unity
     guid: 8c694c2c964d88b498871c97e8d385c0
+  - enabled: 1
+    path: Assets/Scenes/Middle_Charisma.unity
+    guid: 70aaa8a2e1e67334f83be5078db0f6f4
+  - enabled: 1
+    path: Assets/Scenes/End_level.unity
+    guid: 157c60b32320c42438254872805e6cf9
   m_configObjects: {}
