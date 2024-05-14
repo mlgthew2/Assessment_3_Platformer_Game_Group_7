@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: afdd70b78ad3fe643a5f0e1183c3ccf6
+guid: f6b048c7006ec1349be7e4b453116327
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walking Right1_0
+      name: IMG_0202_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1003.5
-        width: 539
-        height: 1003.5
+        y: 523.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c416972e3a9d11a43809829458adc3a0
-      internalID: 1889091125
+      spriteID: 62b635c8532343f4a9b70d564ec0a950
+      internalID: 1318793253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Right1_1
+      name: IMG_0202_1
       rect:
         serializedVersion: 2
-        x: 539
-        y: 1003.5
-        width: 539
-        height: 1003.5
+        x: 253
+        y: 523.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbf244d1ff4dd2b4c83b55cf8af1d9d0
-      internalID: -17603566
+      spriteID: 9376ced0a5ef9e74e81ecc61066085dd
+      internalID: -1995084807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Right1_2
+      name: IMG_0202_2
       rect:
         serializedVersion: 2
-        x: 1078
-        y: 1003.5
-        width: 539
-        height: 1003.5
+        x: 506
+        y: 523.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 259bc700d7d793749bc3b0f3be755bce
-      internalID: -1157734975
+      spriteID: 9c82a6cd5e5863b4e93ad131c4768d08
+      internalID: 168698490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Right1_3
+      name: IMG_0202_3
       rect:
         serializedVersion: 2
-        x: 1617
-        y: 1003.5
-        width: 539
-        height: 1003.5
+        x: 759
+        y: 523.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0e930b39495fce469267279454642b8
-      internalID: 361546191
+      spriteID: 3452c5d73c296ab4bb5c0351645be157
+      internalID: -1770783387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Right1_4
+      name: IMG_0202_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0.5
-        width: 539
-        height: 1003.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14d4c1260521a1d40bc38b444674bca2
-      internalID: -741036335
+      spriteID: 2a860f6e012ffdd4b96d6c43c8bf9fda
+      internalID: -1996317335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Right1_5
+      name: IMG_0202_5
       rect:
         serializedVersion: 2
-        x: 539
+        x: 253
         y: 0.5
-        width: 539
-        height: 1003.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fec777dd3ede5054985571d2f3ca46ff
-      internalID: 676075146
+      spriteID: 1852df4ef88890748b9c083dc2a311da
+      internalID: -1659544170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Right1_6
+      name: IMG_0202_6
       rect:
         serializedVersion: 2
-        x: 1078
+        x: 506
         y: 0.5
-        width: 539
-        height: 1003.5
+        width: 253.5
+        height: 523.5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +250,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb506399a0d6ecc43a08b0ca70faefab
-      internalID: -1760546290
+      spriteID: 588bed68bc883094698eaac00c892fc5
+      internalID: -687619772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMG_0202_7
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0.5
+        width: 253.5
+        height: 523.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3ba35f512a5e40a1ab9662d4a7a94
+      internalID: -1544586406
       vertices: []
       indices: 
       edges: []
@@ -267,13 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Walking Right1_0: 1889091125
-      Walking Right1_1: -17603566
-      Walking Right1_2: -1157734975
-      Walking Right1_3: 361546191
-      Walking Right1_4: -741036335
-      Walking Right1_5: 676075146
-      Walking Right1_6: -1760546290
+      IMG_0202_0: 1318793253
+      IMG_0202_1: -1995084807
+      IMG_0202_2: 168698490
+      IMG_0202_3: -1770783387
+      IMG_0202_4: -1996317335
+      IMG_0202_5: -1659544170
+      IMG_0202_6: -687619772
+      IMG_0202_7: -1544586406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
