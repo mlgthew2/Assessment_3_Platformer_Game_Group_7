@@ -143,5 +143,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45d7a2b18040b4792b9fc7128a35de61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bounceForce: {x: 0, y: 1500}
+  bounceForce: {x: 0, y: 1800}
   filterTag: Player
